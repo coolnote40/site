@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CoolNote</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;700;800&family=Manrope:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="page-shell">
+        <header class="hero">
+            <img class="hero__logo" src="PNG_Logo_White_ClearBG.png" alt="CoolNote logo">
+            <p class="hero__eyebrow">Piano et voix</p>
+            <!-- <h1 class="hero__title">Piano et voix</h1>
+            <p class="hero__copy">
+Piano et voix            </p> -->
+        </header>
+
+        <main class="content">
+            <section class="videos" aria-labelledby="videos-title">
+                <div class="section-heading">
+                    <p class="section-heading__kicker">Selection YouTube</p>
+                    <h2 id="videos-title">Chansons du groupe</h2>
+                </div>
+                <div id="video-grid" class="video-grid" aria-live="polite"></div>
+            </section>
+        </main>
+
+        <footer class="site-footer">
+            <div class="site-footer__side site-footer__side--left">
+                <img src="PNG_Pipou.png" alt="Pipou performing on keys">
+            </div>
+            <div class="site-footer__contact">
+                <p class="site-footer__label">Contact</p>
+                <a href="mailto:pb40140@gmail.com">pb40140@gmail.com</a>
+                <a href="tel:+33628252577">06 28 25 25 77</a>
+                <p class="site-footer__note">Reservations, concerts et evenements prives</p>
+            </div>
+            <div class="site-footer__side site-footer__side--right">
+                <img src="PNG_Christine.png" alt="Christine singing">
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
