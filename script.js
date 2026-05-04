@@ -9,7 +9,7 @@ const videos = [
 const performances = [
     {
         date: "14 juin 2026",
-        venue: "Le Petit Theatre",
+        venue: "Le Theatre",
         city: "Biarritz",
         description: "Set acoustique en duo.",
     },
