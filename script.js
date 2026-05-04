@@ -8,22 +8,22 @@ const videos = [
 
 const performances = [
     {
-        date: "14 juin 2026",
-        venue: "Le Theatre",
-        city: "Biarritz",
-        description: "Set acoustique en duo.",
+        date: "Vendredi 19 juin 2026",
+        venue: "La Guinguetta",
+        city: "Soustons",
+        description: "A partir de 19h30, au bord de l'eau et sous les arbres ...",
     },
     {
-        date: "28 juin 2026",
-        venue: "Terrasse des Docks",
-        city: "Bayonne",
-        description: "Concert au coucher du soleil.",
+        date: "Vendredi 24 Juillet 2026",
+        venue: "Le Pékoé",
+        city: "Soustons",
+        description: "A partir de 19h30 en terrasse couverte.",
     },
     {
-        date: "12 juillet 2026",
-        venue: "Festival d'Ete",
-        city: "Hossegor",
-        description: "Performance piano-voix en plein air.",
+        date: "",
+        venue: "",
+        city: "",
+        description: "",
     },
 ];
 
