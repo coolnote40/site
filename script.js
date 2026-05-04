@@ -9,7 +9,7 @@ const videos = [
 const performances = [
     {
         date: "Vendredi 19 juin 2026",
-        venue: "La Guinguetta",
+        venue: "La Guingueta",
         city: "Soustons",
         description: "A partir de 19h30, au bord de l'eau et sous les arbres ...",
     },
