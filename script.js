@@ -25,6 +25,12 @@ const performances = [
         city: "Azur",
         description: "A partir de 19h30, au bord du lac",
     },
+   {
+        date: "",
+        venue: "",
+        city: "",
+        description: "",
+    },
 ];
 
 const videoGrid = document.querySelector("#video-grid");
