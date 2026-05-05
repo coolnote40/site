@@ -20,10 +20,10 @@ const performances = [
         description: "A partir de 19h30 en terrasse couverte.",
     },
     {
-        date: "",
-        venue: "",
-        city: "",
-        description: "",
+        date: "Samedi **** Aout 2026",
+        venue: "Le Paréo",
+        city: "Azur",
+        description: "A partir de 19h30, au bord du lac",
     },
 ];
 
