@@ -8,6 +8,12 @@ const videos = [
 
 const performances = [
     {
+        date: "Vendredi 5 juin 2026",
+        venue: "La Médiathèque",
+        city: "Soustons",
+        description: "a partir de 18h30 / 19h00 ... , Accompagnement musical autour de la dédicace du livre de Marc Varence 'Enfoiré!'",
+    },
+    {
         date: "Vendredi 19 juin 2026",
         venue: "La Guingueta",
         city: "Soustons",
