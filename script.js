@@ -8,6 +8,11 @@ const videos = [
 
 const performances = [
     {
+        date: "Lundi 13 Avril 2026",
+        venue: "Leclerc - Foire aux vins",
+        city: "Soustons",
+        description: "a partir de 20h00, sur réservation",
+    },{
         date: "Vendredi 5 juin 2026",
         venue: "La Médiathèque",
         city: "Soustons",
