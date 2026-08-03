@@ -34,13 +34,13 @@ const performances = [
         date: "Samedi 8 Aout 2026",
         venue: "Le Paréo",
         city: "Azur",
-        description: "A partir de 19h30, au bord du lac",
+        description: "A partir de 20h00, au bord du lac",
     },
     {
         date: "Samedi 22 Aout 2026",
         venue: "Le Paréo",
         city: "Azur",
-        description: "A partir de 19h30, au bord du lac",
+        description: "A partir de 20h00, au bord du lac",
     },
    {
         date: "",
