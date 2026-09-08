@@ -42,6 +42,12 @@ const performances = [
         city: "Azur",
         description: "A partir de 20h00, au bord du lac",
     },
+     {
+        date: "Lundi 28 Septembre 2026",
+        venue: "Leclerc - Foire aux vins",
+        city: "Soustons",
+        description: "a partir de 20h00, sur réservation",
+    },
    {
         date: "",
         venue: "",
