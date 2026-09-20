@@ -48,6 +48,12 @@ const performances = [
         city: "Soustons",
         description: "a partir de 20h00, sur réservation",
     },
+    {
+        date: "Jeudi 24 Décembre 2026",
+        venue: "Les 5 Etangs - Noël Ehpad",
+        city: "Soustons",
+        description: "a partir de 19h00",
+    },
    {
         date: "",
         venue: "",
